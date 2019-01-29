@@ -1,4 +1,3 @@
-<img src="http://bitcore.io/css/images/module-message.png" alt="bitcore message" height="35">
 # Bitcoin Message Verification and Signing for Bitcore
 
 
@@ -47,4 +46,3 @@ See [CONTRIBUTING.md](https://github.com/bitpay/bitcore/blob/master/CONTRIBUTING
 Code released under [the MIT license](https://github.com/bitpay/bitcore/blob/master/LICENSE).
 
 Copyright 2013-2015 BitPay, Inc. Bitcore is a trademark maintained by BitPay, Inc.
-
